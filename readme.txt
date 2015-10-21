@@ -27,3 +27,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 git add readme.txt
 git status
 git commit -m "git tracks changes"
+
+------------------------------------------------
+
+Exchange primary email.
+Test the github.
